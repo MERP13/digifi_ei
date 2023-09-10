@@ -1,2 +1,6 @@
+.node_modules
+.next
+.sourcebit-nextjs-cache.json
 node_modules
-node_modules
+.next/trace
+out/_next/static/chunks
